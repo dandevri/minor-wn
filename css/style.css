@@ -39,6 +39,15 @@ li::before {
   color: #4b5262;
 }
 
+a {
+  color: #57B9C4;
+  transition: 250ms;
+}
+
+a:hover {
+  opacity: 0.8;
+}
+
 /* Code Styles */
 .tag {
   color: #e06c75;
