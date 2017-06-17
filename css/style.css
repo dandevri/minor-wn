@@ -49,5 +49,9 @@ li::before {
 }
 
 .value {
-  color:
+  color: #88B678;
+}
+
+.indent {
+  padding: 0em 1em;
 }
