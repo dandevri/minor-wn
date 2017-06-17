@@ -81,4 +81,5 @@ p {
 
 .active {
   background-color: #1c1f27;
+  border-bottom: #128FE6 1px solid;
 }
