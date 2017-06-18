@@ -14,6 +14,10 @@ ul, li, ol {
   list-style: none;
 }
 
+img {
+  width: 100%;
+}
+
 /* General Styles */
 body {
   color: #fff;
@@ -21,10 +25,6 @@ body {
   background-color: #282c34;
   counter-reset: item;
 }
-
-header {
-}
-
 
 li {
   counter-increment: item;
@@ -48,6 +48,7 @@ a:hover {
 
 main {
   padding: 1em 0em;
+  max-width: 60em;
 }
 
 /* Code Styles */
@@ -68,6 +69,10 @@ main {
   border-left: 2px dashed #596171;
 }
 
+blockquote {
+  font-style: italic;
+}
+
 /* Tab bar */
 header {
   display: flex;
@@ -85,4 +90,9 @@ p {
   background-color: #1c1f27;
   border-bottom: #128FE6 1px solid;
   opacity: 0.8;
+}
+
+/* Detail page styling */
+section {
+  padding: 3em;
 }
