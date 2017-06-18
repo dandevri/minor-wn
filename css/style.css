@@ -26,9 +26,14 @@ body {
   counter-reset: item;
 }
 
+main {
+  display: flex;
+}
+
 li {
   counter-increment: item;
   color: #abb2bf;
+  display: flex;
 }
 
 li::before {
@@ -58,6 +63,7 @@ main {
 
 .attribute {
   color: #CE9461;
+  margin-left: 0.7em;
 }
 
 .value {
