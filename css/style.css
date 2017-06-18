@@ -26,10 +26,6 @@ body {
   counter-reset: item;
 }
 
-main {
-  display: flex;
-}
-
 li {
   counter-increment: item;
   color: #abb2bf;
