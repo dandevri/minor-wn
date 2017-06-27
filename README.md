@@ -25,6 +25,7 @@ During the minor every Tuesday there is a talk or workshop from designers about 
 1. [Article 1 -  My write up of CSS Day Conference ‘17. ](https://medium.com/@dandevri/my-write-up-of-css-day-conference-17-eb6db74b5268)
 1. [Article 2 - Back to JS Basics](https://codeburst.io/back-to-js-basics-22746226cbec)
 1. [Article 3 - Using GitHub as a team.](https://medium.com/@dandevri/using-github-as-a-team-61f189eaa8ff)
+1. [Article 4 - Building conversational UI demystified  team.](https://medium.com/@dandevri/building-conversational-ui-with-wit-ai-demystified-77edfe749ca2)
 
 ## :page_facing_up: Contributing
 To see a list of everybody who participated go to the [Contributors](https://github.com/dandevri/watt-now/graphs/contributors) page.
