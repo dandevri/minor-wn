@@ -7,7 +7,10 @@
 https://dandevri.github.io/minor-wn/
 
 ## :book: Introduction
-During the minor every Tuesday there is a talk or workshop from designers about Front-end Development. 🚨 Nerd alert.
+Every Tuesday during the Minor designers and developers, from some of the biggest agencies in the Netherlands, come to give a talk about interesting and relevant topics in the design world.
+
+**Assignment**
+> Based on these talks you make sketchnotes and write 5 in-depth articles about, for you personally, interesting topics.
 
 ### List of Weekly Nerds
 1. Stephan Hay (Catawiki) - Ux ?= FeD
