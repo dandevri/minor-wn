@@ -24,7 +24,7 @@ Every Tuesday during the Minor designers and developers, from some of the bigges
 1. Nick de Bruijn - Een eigen bedrijf door en met CMD'ers
 1. Guido Bouman (Q42) - Interaction Engineering
 
-### List of
+### List of articles
 1. [Article 1 -  My write up of CSS Day Conference ‘17. ](https://medium.com/@dandevri/my-write-up-of-css-day-conference-17-eb6db74b5268)
 1. [Article 2 - Back to JS Basics](https://codeburst.io/back-to-js-basics-22746226cbec)
 1. [Article 3 - Using GitHub as a team.](https://medium.com/@dandevri/using-github-as-a-team-61f189eaa8ff)
