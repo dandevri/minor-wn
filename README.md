@@ -27,7 +27,7 @@ Every Tuesday during the Minor designers and developers, from some of the bigges
 ### List of articles
 1. [Article 1 -  My write up of CSS Day Conference ‘17 ](https://medium.com/@dandevri/my-write-up-of-css-day-conference-17-eb6db74b5268)
 1. [Article 2 - Back to JS Basics](https://codeburst.io/back-to-js-basics-22746226cbec)
-1. [Article 3 - Using GitHub as a team.](https://medium.com/@dandevri/using-github-as-a-team-61f189eaa8ff)
+1. [Article 3 - Using GitHub as a team](https://medium.com/@dandevri/using-github-as-a-team-61f189eaa8ff)
 1. [Article 4 - Building conversational UI demystified](https://medium.com/@dandevri/building-conversational-ui-with-wit-ai-demystified-77edfe749ca2)
 1. [Article 5 - The definition of APIs](https://medium.com/@dandevri/the-definition-of-apis-bd96f3395b48)
 
