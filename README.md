@@ -13,7 +13,7 @@ Every Tuesday during the Minor designers and developers, from some of the bigges
 > Based on these talks you make sketchnotes and write 5 in-depth articles about, for you personally, interesting topics.
 
 ### List of Weekly Nerds
-1. Stephan Hay (Catawiki) - Ux ?= FeD
+1. Stephen Hay (Catawiki) - Ux ?= FeD
 1. Justus Sturkenboom (HvA) - Sketchnotes
 1. Peter Paul Koch (PPK) - Browser bloat
 1. Titus Wormer (HvA) - Advanced Git Tips & Tricks
